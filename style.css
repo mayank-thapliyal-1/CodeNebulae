@@ -327,7 +327,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3c5ed0",endCo
  /* alert */
   .alert{
     width:24rem;
-    padding: 2px 1px;
+    padding: 2px 2px;
     
   font-size: small;}
     /* navbar */
